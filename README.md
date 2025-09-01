@@ -6,6 +6,7 @@ I am a software engineer with 15+ years of experience.
 - 🥇🥈 I am one of winners of [Russian Drupal Awards 2022](https://www.russiandrupalawards.ru/winners)
 - 🛠️ I develop and support some VSCode extensions: [Drupal](https://marketplace.visualstudio.com/items?itemName=Stanislav.vscode-drupal), [Modern Twig](https://marketplace.visualstudio.com/items?itemName=Stanislav.vscode-twig)
 - 🏆 I won a few programming contest during my youth
+- 📂 My [projects]([Projects](https://kaermorchen.github.io/about-me/)
 - 📫 How to reach me [linkedin](https://linkedin.com/in/stanislavr), kaermorchen@gmail.com
 
 Technical skills:<br>
