@@ -14,6 +14,4 @@ I am a software engineer with 15+ years of experience.
   * [ember-cli-loaders](https://github.com/kaermorchen/ember-cli-loaders) is an addon for using Loaders.css
 * [Yandex Translation](https://github.com/kaermorchen/to-yandex-translate) is a Firefox addon
 
-### 📂 My [projects](https://kaermorchen.github.io/about-me/)
-
 ### 📫 How to reach me: [linkedin](https://linkedin.com/in/stanislavr)
