@@ -11,8 +11,8 @@ I am a software engineer with 15+ years of experience.
   * [ember-mdi](https://github.com/kaermorchen/ember-mdi) is an addon for using Material Design Icons in Ember applications
   * [ember-photoswipe](https://github.com/kaermorchen/ember-photoswipe) is an addon for using Photoswipe in Ember applications
   * [ember-cli-bootstrap-4](https://github.com/kaermorchen/ember-cli-bootstrap-4) is an addon for using Bootstrap 4 in Ember applications
-  * [ember-cli-loaders](https://github.com/kaermorchen/ember-cli-loaders) is an ember-cli addon for using Loaders.css
-* [Yandex Translation](https://github.com/kaermorchen/to-yandex-translate) is Firefox addon
+  * [ember-cli-loaders](https://github.com/kaermorchen/ember-cli-loaders) is an addon for using Loaders.css
+* [Yandex Translation](https://github.com/kaermorchen/to-yandex-translate) is a Firefox addon
 
 ### 📂 My [projects](https://kaermorchen.github.io/about-me/)
 
